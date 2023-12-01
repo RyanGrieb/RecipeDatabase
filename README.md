@@ -21,7 +21,7 @@ _Project Name: Recipe Database – Explore recipes using ingredients._
 2. Enter container with `docker exec -it <container_id> bash`
 3. Enter into the PostgreSQL command line `psql -U user -d mydatabase`
 
-### To select a recipe by name:
+### To select a recipe that uses an ingredient:
 
 `
 SELECT recipe.recipe_id, recipe.recipe_name
@@ -30,10 +30,9 @@ JOIN quantity ON recipe.recipe_id = quantity.recipe_id
 JOIN ingredient ON quantity.ingredient_id = ingredient.ingredient_id
 WHERE ingredient.ingredient_name = 'INGREDIENT_NAME';`
 
-### Example - select all recipes containing 'Onions':
+### Example - Select all recipes containing 'Onions':
 
-`
-SELECT recipe.recipe_id, recipe.recipe_name
+`SELECT recipe.recipe_id, recipe.recipe_name
 FROM recipe
 JOIN quantity ON recipe.recipe_id = quantity.recipe_id
 JOIN ingredient ON quantity.ingredient_id = ingredient.ingredient_id
