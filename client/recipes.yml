@@ -1,0 +1,181 @@
+recipes:
+  - recipe_name: "Green Bean Casserole"
+    instructions_desc: "Step 1: Blanche green beans. Step 2: ... Step 3: ..."
+    course: "Side Dish"
+    food_category: "Casserole"
+    prep_time: 15
+    cook_time: 30
+    ingredients:
+      - ingredient_name: "Green beans"
+        ingredient_quantity: 500
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "medium"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+
+      - ingredient_name: "Flour"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Chicken broth"
+        ingredient_quantity: 250
+        ingredient_measurement: "milliliters"
+
+      - ingredient_name: "Mushrooms"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Butter"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+  - recipe_name: "Spaghetti Bolognese"
+    instructions_desc: "Step 1: Cook spaghetti. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Pasta"
+    prep_time: 20
+    cook_time: 45
+    ingredients:
+      - ingredient_name: "Ground beef"
+        ingredient_quantity: 400
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "medium"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+
+      - ingredient_name: "Crushed tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "can"
+
+      - ingredient_name: "Tomato paste"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Dried oregano"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried basil"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+  - recipe_name: "Chicken Caesar Salad"
+    instructions_desc: "Step 1: Grill chicken. Step 2: ... Step 3: ..."
+    course: "Appetizer"
+    food_category: "Salad"
+    prep_time: 25
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Boneless, skinless chicken breasts"
+        ingredient_quantity: 2
+        ingredient_measurement: "pieces"
+
+      - ingredient_name: "Romaine lettuce"
+        ingredient_quantity: 1
+        ingredient_measurement: "head"
+
+      - ingredient_name: "Grated Parmesan cheese"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Caesar dressing"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Croutons"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Lemon"
+        ingredient_quantity: 1
+        ingredient_measurement: "lemon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Optional Parmesan"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Vegetarian Stir-Fry"
+    instructions_desc: "Step 1: Prepare vegetables. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Stir-Fry"
+    prep_time: 15
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Broccoli"
+        ingredient_quantity: 1
+        ingredient_measurement: "broccoli head"
+
+      - ingredient_name: "Bell pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "bell pepper"
+
+      - ingredient_name: "Carrots"
+        ingredient_quantity: 2
+        ingredient_measurement: "carrots"
+
+      - ingredient_name: "Snap peas"
+        ingredient_quantity: 150
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Soy sauce"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Sesame oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Ginger"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
