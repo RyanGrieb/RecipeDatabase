@@ -21,6 +21,11 @@ _Project Name: Recipe Database – Explore recipes using ingredients._
 2. Enter container with `docker exec -it <container_id> bash`
 3. Enter into the PostgreSQL command line `psql -U user -d mydatabase`
 
+### To generate the database .sql file:
+
+1. Find container_id of db container with `docker ps`
+2. Generate the .sql file with `docker exec -it <container_id> pg_dump -U user -d mydatabase > mydatabase.sql`
+
 ### To select a recipe that uses an ingredient:
 
 `

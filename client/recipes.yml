@@ -179,3 +179,2433 @@ recipes:
       - ingredient_name: "Black pepper"
         ingredient_quantity: 0
         ingredient_measurement: "to taste"
+  - recipe_name: "Quinoa Salad with Lemon Vinaigrette"
+    instructions_desc: "Step 1: Cook quinoa. Step 2: ... Step 3: ..."
+    course: "Side Dish"
+    food_category: "Salad"
+    prep_time: 20
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Quinoa"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Cucumber"
+        ingredient_quantity: 1
+        ingredient_measurement: "medium"
+
+      - ingredient_name: "Feta cheese"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Fresh parsley"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Lemon juice"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Honey"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Taco Salad"
+    instructions_desc: "Step 1: Cook ground beef. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Salad"
+    prep_time: 20
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Ground beef"
+        ingredient_quantity: 500
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Taco seasoning"
+        ingredient_quantity: 1
+        ingredient_measurement: "packet"
+
+      - ingredient_name: "Lettuce"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Cheddar cheese"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Sour cream"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Fresh cilantro"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Tortillas"
+        ingredient_quantity: 8
+        ingredient_measurement: "pieces"
+
+      - ingredient_name: "Lime"
+        ingredient_quantity: 1
+        ingredient_measurement: "lime"
+
+      - ingredient_name: "Salt and pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Mushroom Risotto"
+    instructions_desc: "Step 1: Sauté mushrooms. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Risotto"
+    prep_time: 25
+    cook_time: 30
+    ingredients:
+      - ingredient_name: "Arborio rice"
+        ingredient_quantity: 300
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Mushrooms"
+        ingredient_quantity: 200
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "onion"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+
+      - ingredient_name: "Vegetable broth"
+        ingredient_quantity: 750
+        ingredient_measurement: "milliliters"
+
+      - ingredient_name: "White wine"
+        ingredient_quantity: 125
+        ingredient_measurement: "milliliters"
+
+      - ingredient_name: "Parmesan cheese"
+        ingredient_quantity: 50
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Butter"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Salt and pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Chocolate Chip Cookies"
+    instructions_desc: "Step 1: Mix ingredients. Step 2: ... Step 3: ..."
+    course: "Dessert"
+    food_category: "Cookies"
+    prep_time: 15
+    cook_time: 12
+    ingredients:
+      - ingredient_name: "Unsalted butter"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Granulated sugar"
+        ingredient_quantity: 0.75
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Brown sugar"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Large eggs"
+        ingredient_quantity: 2
+        ingredient_measurement: "large"
+
+      - ingredient_name: "Vanilla extract"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "All-purpose flour"
+        ingredient_quantity: 3
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Baking soda"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Chocolate chips"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Caprese Salad"
+    instructions_desc: "Step 1: Slice tomatoes and mozzarella. Step 2: ... Step 3: ..."
+    course: "Appetizer"
+    food_category: "Salad"
+    prep_time: 10
+    cook_time: 0
+    ingredients:
+      - ingredient_name: "Tomatoes"
+        ingredient_quantity: 4
+        ingredient_measurement: "large"
+
+      - ingredient_name: "Fresh mozzarella"
+        ingredient_quantity: 200
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Fresh basil leaves"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Balsamic glaze"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Extra-virgin olive oil"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Chicken Alfredo Pasta"
+    instructions_desc: "Step 1: Cook pasta. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Pasta"
+    prep_time: 20
+    cook_time: 25
+    ingredients:
+      - ingredient_name: "Fettuccine pasta"
+        ingredient_quantity: 400
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Boneless, skinless chicken breasts"
+        ingredient_quantity: 2
+        ingredient_measurement: "pieces"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 3
+        ingredient_measurement: "cloves"
+
+      - ingredient_name: "Heavy cream"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Grated Parmesan cheese"
+        ingredient_quantity: 0.75
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Unsalted butter"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Additional salt and pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Vegetable Curry"
+    instructions_desc: "Step 1: Sauté vegetables. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Curry"
+    prep_time: 30
+    cook_time: 25
+    ingredients:
+      - ingredient_name: "Large onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "chopped"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+
+      - ingredient_name: "Ginger"
+        ingredient_quantity: 1
+        ingredient_measurement: "inch piece"
+
+      - ingredient_name: "Mixed vegetables"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+        ingredient_description: "(carrots, peas, bell peppers, etc.)"
+
+      - ingredient_name: "Chickpeas"
+        ingredient_quantity: 1
+        ingredient_measurement: "can"
+        ingredient_description: "drained and rinsed"
+
+      - ingredient_name: "Coconut milk"
+        ingredient_quantity: 400
+        ingredient_measurement: "milliliters"
+
+      - ingredient_name: "Curry powder"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Turmeric"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Vegetable oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Salt and pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Berry Smoothie Bowl"
+    instructions_desc: "Step 1: Blend berries and yogurt. Step 2: ... Step 3: ..."
+    course: "Breakfast"
+    food_category: "Smoothie Bowl"
+    prep_time: 10
+    cook_time: 0
+    ingredients:
+      - ingredient_name: "Mixed berries"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "(strawberries, blueberries, raspberries)"
+
+      - ingredient_name: "Greek yogurt"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Banana"
+        ingredient_quantity: 1
+        ingredient_measurement: "banana"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Granola"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Honey"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Chia seeds"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Almond butter"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Additional honey"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Additional chia seeds"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Additional sliced berries"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Shrimp Scampi Pasta"
+    instructions_desc: "Step 1: Cook pasta. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Seafood"
+    prep_time: 15
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Linguine pasta"
+        ingredient_quantity: 400
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Large shrimp"
+        ingredient_quantity: 1
+        ingredient_measurement: "pound"
+        ingredient_description: "peeled and deveined"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 4
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Dry white wine"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Fresh lemon juice"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Fresh parsley"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Unsalted butter"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Red pepper flakes"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Roasted Vegetable Quinoa Bowl"
+    instructions_desc: "Step 1: Roast vegetables. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Quinoa Bowl"
+    prep_time: 25
+    cook_time: 30
+    ingredients:
+      - ingredient_name: "Quinoa"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "rinsed"
+
+      - ingredient_name: "Bell pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "bell pepper"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Zucchini"
+        ingredient_quantity: 1
+        ingredient_measurement: "zucchini"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Eggplant"
+        ingredient_quantity: 1
+        ingredient_measurement: "eggplant"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "red onion"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Dried thyme"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Smoked paprika"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Balsamic glaze"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Lemon Blueberry Muffins"
+    instructions_desc: "Step 1: Mix dry and wet ingredients. Step 2: ... Step 3: ..."
+    course: "Dessert"
+    food_category: "Muffins"
+    prep_time: 15
+    cook_time: 25
+    ingredients:
+      - ingredient_name: "All-purpose flour"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Granulated sugar"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Blueberries"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Baking powder"
+        ingredient_quantity: 2
+        ingredient_measurement: "teaspoons"
+
+      - ingredient_name: "Baking soda"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Unsalted butter"
+        ingredient_quantity: 0.75
+        ingredient_measurement: "cup"
+        ingredient_description: "melted"
+
+      - ingredient_name: "Large eggs"
+        ingredient_quantity: 2
+        ingredient_measurement: "large"
+
+      - ingredient_name: "Milk"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Lemon zest"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+  - recipe_name: "Teriyaki Salmon Bowl"
+    instructions_desc: "Step 1: Marinate salmon. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Seafood"
+    prep_time: 20
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Salmon fillets"
+        ingredient_quantity: 4
+        ingredient_measurement: "salmon fillets"
+
+      - ingredient_name: "Soy sauce"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Honey"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Rice vinegar"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Ginger"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+        ingredient_description: "grated"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Broccoli florets"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Carrot"
+        ingredient_quantity: 1
+        ingredient_measurement: "carrot"
+        ingredient_description: "julienned"
+
+      - ingredient_name: "Cooked brown rice"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Sesame seeds and green onions"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Mango Avocado Salsa"
+    instructions_desc: "Step 1: Dice mango and avocado. Step 2: ... Step 3: ..."
+    course: "Appetizer"
+    food_category: "Salsa"
+    prep_time: 10
+    cook_time: 0
+    ingredients:
+      - ingredient_name: "Large mango"
+        ingredient_quantity: 1
+        ingredient_measurement: "large mango"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Ripe avocados"
+        ingredient_quantity: 2
+        ingredient_measurement: "ripe avocados"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "red onion"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Jalapeño"
+        ingredient_quantity: 1
+        ingredient_measurement: "jalapeño"
+        ingredient_description: "seeded and minced"
+
+      - ingredient_name: "Fresh cilantro"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Lime"
+        ingredient_quantity: 1
+        ingredient_measurement: "lime"
+        ingredient_description: "Juice of 1 lime"
+
+      - ingredient_name: "Cumin"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Butternut Squash Soup"
+    instructions_desc: "Step 1: Roast butternut squash. Step 2: ... Step 3: ..."
+    course: "Soup"
+    food_category: "Vegetarian"
+    prep_time: 15
+    cook_time: 40
+    ingredients:
+      - ingredient_name: "Medium butternut squash"
+        ingredient_quantity: 1
+        ingredient_measurement: "medium butternut squash"
+        ingredient_description: "peeled and diced"
+
+      - ingredient_name: "Onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "onion"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Carrots"
+        ingredient_quantity: 2
+        ingredient_measurement: "carrots"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Celery stalks"
+        ingredient_quantity: 2
+        ingredient_measurement: "celery stalks"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 3
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Vegetable broth"
+        ingredient_quantity: 4
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Thyme"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Rosemary"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+  - recipe_name: "Cajun Shrimp Tacos"
+    instructions_desc: "Step 1: Season and cook shrimp. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Tacos"
+    prep_time: 20
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Large shrimp"
+        ingredient_quantity: 1
+        ingredient_measurement: "pound"
+        ingredient_description: "peeled and deveined"
+
+      - ingredient_name: "Cajun seasoning"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Coleslaw mix"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Sour cream"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Lime juice"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Small corn tortillas"
+        ingredient_quantity: 8
+        ingredient_measurement: "small"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Hot sauce"
+        ingredient_quantity: 0
+        ingredient_measurement: "Optional: hot sauce for extra heat"
+  - recipe_name: "Mediterranean Chickpea Salad"
+    instructions_desc: "Step 1: Mix chickpeas and veggies. Step 2: ... Step 3: ..."
+    course: "Salad"
+    food_category: "Vegetarian"
+    prep_time: 15
+    cook_time: 0
+    ingredients:
+      - ingredient_name: "Chickpeas"
+        ingredient_quantity: 2
+        ingredient_measurement: "cans"
+        ingredient_description: "drained and rinsed"
+
+      - ingredient_name: "Cucumber"
+        ingredient_quantity: 1
+        ingredient_measurement: "cucumber"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "halved"
+
+      - ingredient_name: "Kalamata olives"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Feta cheese"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "crumbled"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Red wine vinegar"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Dried oregano"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Pesto Chicken Penne"
+    instructions_desc: "Step 1: Cook penne. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Pasta"
+    prep_time: 20
+    cook_time: 25
+    ingredients:
+      - ingredient_name: "Penne pasta"
+        ingredient_quantity: 400
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Boneless, skinless chicken breasts"
+        ingredient_quantity: 2
+        ingredient_measurement: "boneless, skinless chicken breasts"
+        ingredient_description: "cut into strips"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "halved"
+
+      - ingredient_name: "Black olives"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Pine nuts"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+        ingredient_description: "toasted"
+
+      - ingredient_name: "Fresh basil leaves"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Grated Parmesan cheese"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Pesto sauce"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Thai Basil Chicken Stir-Fry"
+    instructions_desc: "Step 1: Stir-fry chicken. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Stir-Fry"
+    prep_time: 20
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Boneless, skinless chicken thighs"
+        ingredient_quantity: 500
+        ingredient_measurement: "grams"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Soy sauce"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Oyster sauce"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Fish sauce"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Sugar"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 3
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Fresh basil leaves"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Red chili"
+        ingredient_quantity: 1
+        ingredient_measurement: "red chili"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Vegetable oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Greek Orzo Salad"
+    instructions_desc: "Step 1: Cook orzo. Step 2: ... Step 3: ..."
+    course: "Side Dish"
+    food_category: "Salad"
+    prep_time: 15
+    cook_time: 10
+    ingredients:
+      - ingredient_name: "Orzo pasta"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "halved"
+
+      - ingredient_name: "Cucumber"
+        ingredient_quantity: 1
+        ingredient_measurement: "cucumber"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Kalamata olives"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Red bell pepper"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Feta cheese"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "crumbled"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Red wine vinegar"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Honey Mustard Glazed Salmon"
+    instructions_desc: "Step 1: Glaze salmon. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Seafood"
+    prep_time: 15
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Salmon fillets"
+        ingredient_quantity: 4
+        ingredient_measurement: "salmon fillets"
+
+      - ingredient_name: "Dijon mustard"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Honey"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Soy sauce"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried thyme"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Lemon zest"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Fresh parsley"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Spinach and Feta Stuffed Chicken Breast"
+    instructions_desc: "Step 1: Butterfly chicken breasts. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Chicken"
+    prep_time: 25
+    cook_time: 30
+    ingredients:
+      - ingredient_name: "Boneless, skinless chicken breasts"
+        ingredient_quantity: 4
+        ingredient_measurement: "boneless, skinless chicken breasts"
+
+      - ingredient_name: "Fresh spinach"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Feta cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "crumbled"
+
+      - ingredient_name: "Sun-dried tomatoes"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Dried oregano"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried thyme"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Toothpicks"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Vegetarian Tofu Stir-Fry"
+    instructions_desc: "Step 1: Press and cube tofu. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Stir-Fry"
+    prep_time: 20
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Firm tofu"
+        ingredient_quantity: 1
+        ingredient_measurement: "block"
+        ingredient_description: "pressed and cubed"
+
+      - ingredient_name: "Broccoli florets"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Bell pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "bell pepper"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Carrot"
+        ingredient_quantity: 1
+        ingredient_measurement: "carrot"
+        ingredient_description: "julienned"
+
+      - ingredient_name: "Snap peas"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Soy sauce"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Hoisin sauce"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Sesame oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Caprese Stuffed Portobello Mushrooms"
+    instructions_desc: "Step 1: Prep mushrooms. Step 2: ... Step 3: ..."
+    course: "Appetizer"
+    food_category: "Vegetarian"
+    prep_time: 15
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Large portobello mushrooms"
+        ingredient_quantity: 4
+        ingredient_measurement: "large portobello mushrooms"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Fresh mozzarella"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Fresh basil"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Balsamic glaze"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Parmesan cheese"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Lemon Garlic Shrimp Pasta"
+    instructions_desc: "Step 1: Cook pasta. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Pasta"
+    prep_time: 15
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Linguine pasta"
+        ingredient_quantity: 400
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Large shrimp"
+        ingredient_quantity: 1
+        ingredient_measurement: "pound"
+        ingredient_description: "peeled and deveined"
+
+      - ingredient_name: "Garlic"
+        ingredient_quantity: 3
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Lemon"
+        ingredient_quantity: 1
+        ingredient_measurement: "lemon"
+        ingredient_description: "Juice and zest of 1 lemon"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 0.5
+        ingredient_measurement: "cup"
+        ingredient_description: "halved"
+
+      - ingredient_name: "Fresh parsley"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Butter"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Red pepper flakes"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+  - recipe_name: "Quinoa and Black Bean Stuffed Peppers"
+    instructions_desc: "Step 1: Cook quinoa. Step 2: ... Step 3: ..."
+    course: "Main Dish"
+    food_category: "Vegetarian"
+    prep_time: 25
+    cook_time: 30
+    ingredients:
+      - ingredient_name: "Quinoa"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "cooked"
+
+      - ingredient_name: "Bell peppers"
+        ingredient_quantity: 4
+        ingredient_measurement: "large"
+        ingredient_description: "halved and seeds removed"
+
+      - ingredient_name: "Black beans"
+        ingredient_quantity: 1
+        ingredient_measurement: "can"
+        ingredient_description: "drained and rinsed"
+
+      - ingredient_name: "Corn kernels"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Diced tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Shredded cheddar cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Cumin"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Chili powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Pepper"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Fresh cilantro"
+        ingredient_quantity: 0
+        ingredient_measurement: "for garnish"
+  - recipe_name: "Mango Coconut Rice Pudding"
+    instructions_desc: "Step 1: Cook rice. Step 2: ... Step 3: ..."
+    course: "Dessert"
+    food_category: "Rice Pudding"
+    prep_time: 20
+    cook_time: 40
+    ingredients:
+      - ingredient_name: "Jasmine rice"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Coconut milk"
+        ingredient_quantity: 2
+        ingredient_measurement: "cans"
+
+      - ingredient_name: "Granulated sugar"
+        ingredient_quantity: 0.75
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Vanilla extract"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Diced mango"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Shredded coconut"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Chopped nuts (almonds, pistachios, or cashews)"
+        ingredient_quantity: 0.25
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Pinch of salt"
+        ingredient_quantity: 0
+        ingredient_measurement: "to taste"
+
+      - ingredient_name: "Mint leaves"
+        ingredient_quantity: 0
+        ingredient_measurement: "for garnish"
+  - recipe_name: "Chicken Alfredo Pasta"
+    instructions_desc: "Step 1: Cook pasta according to package instructions. ... Step 3: Garnish with parsley and serve hot."
+    course: "Main Course"
+    food_category: "Pasta Dish"
+    prep_time: null
+    cook_time: null
+    ingredients:
+      - ingredient_name: "Cooked chicken"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+        ingredient_description: "shredded"
+
+      - ingredient_name: "Heavy cream"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Grated Parmesan cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Unsalted butter"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 3
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Fettuccine pasta"
+        ingredient_quantity: 500
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Grated mozzarella cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "(optional)"
+
+      - ingredient_name: "Chopped fresh parsley"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+        ingredient_description: "for garnish"
+  - recipe_name: "Vegetarian Tacos"
+    instructions_desc: "Step 1: In a pan, sauté onions, bell peppers, and garlic. ... Step 3: Spoon the mixture into taco shells and top with desired toppings."
+    course: "Main Course"
+    food_category: "Mexican Dish"
+    prep_time: null
+    cook_time: null
+    ingredients:
+      - ingredient_name: "Black beans"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "cooked"
+
+      - ingredient_name: "Corn kernels"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Diced tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Bell peppers (mixed colors)"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Ground cumin"
+        ingredient_quantity: 2
+        ingredient_measurement: "teaspoons"
+
+      - ingredient_name: "Chili powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Smoked paprika"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Shredded lettuce"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Shredded cheddar cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Sour cream"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Salsa"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Guacamole"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Fresh cilantro"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Taco shells"
+        ingredient_quantity: 12
+        ingredient_measurement: "units"
+  - recipe_name: "Quinoa Salad"
+    instructions_desc: "Step 1: Rinse quinoa under cold water. ... Step 3: Drizzle the dressing over the salad and toss to combine."
+    course: "Salad"
+    food_category: "Vegetarian Dish"
+    prep_time: 15
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Quinoa"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "rinsed"
+
+      - ingredient_name: "Water"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "halved"
+
+      - ingredient_name: "Cucumber"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Red bell pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Yellow bell pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Feta cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "crumbled"
+
+      - ingredient_name: "Kalamata olives"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Fresh parsley"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Extra virgin olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Red wine vinegar"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Dijon mustard"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Honey"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "Teriyaki Chicken Skewers"
+    instructions_desc: "Step 1: In a bowl, mix soy sauce, brown sugar, ginger, and garlic. ... Step 3: Grill skewers until chicken is cooked through, basting with teriyaki sauce."
+    course: "Appetizer"
+    food_category: "Chicken Dish"
+    prep_time: 30
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Chicken breasts"
+        ingredient_quantity: 1
+        ingredient_measurement: "lb"
+        ingredient_description: "cut into cubes"
+
+      - ingredient_name: "Soy sauce"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Brown sugar"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Fresh ginger"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+        ingredient_description: "grated"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 3
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Sesame oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Cornstarch"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+  - recipe_name: "Mango Salsa Chicken"
+    instructions_desc: "Step 1: Season chicken breasts with salt, pepper, and lime juice. ... Step 3: Spoon mango salsa over grilled chicken and serve."
+    course: "Main Course"
+    food_category: "Chicken Dish"
+    prep_time: 15
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Boneless, skinless chicken breasts"
+        ingredient_quantity: 4
+        ingredient_measurement: "units"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Lime juice"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Mango"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Red bell pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Cilantro"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Jalapeño"
+        ingredient_quantity: 1
+        ingredient_measurement: "unit"
+        ingredient_description: "seeded and minced"
+
+      - ingredient_name: "Lime"
+        ingredient_quantity: 1
+        ingredient_measurement: "unit"
+        ingredient_description: "juiced"
+
+      - ingredient_name: "Honey"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "Spinach and Feta Stuffed Chicken"
+    instructions_desc: "Step 1: Butterfly chicken breasts and season with salt and pepper. ... Step 3: Bake until chicken is cooked through and cheese is melted."
+    course: "Main Course"
+    food_category: "Chicken Dish"
+    prep_time: 20
+    cook_time: 25
+    ingredients:
+      - ingredient_name: "Boneless, skinless chicken breasts"
+        ingredient_quantity: 4
+        ingredient_measurement: "units"
+        ingredient_description: "butterflied"
+
+      - ingredient_name: "Fresh spinach"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Feta cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "crumbled"
+
+      - ingredient_name: "Dried oregano"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Lemon juice"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+  - recipe_name: "Shrimp Scampi Pasta"
+    instructions_desc: "Step 1: Cook pasta according to package instructions. ... Step 3: Toss the shrimp mixture with cooked pasta and garnish with parsley."
+    course: "Main Course"
+    food_category: "Seafood Dish"
+    prep_time: null
+    cook_time: 20
+    ingredients:
+      - ingredient_name: "Large shrimp"
+        ingredient_quantity: 1
+        ingredient_measurement: "lb"
+        ingredient_description: "peeled and deveined"
+
+      - ingredient_name: "Linguine pasta"
+        ingredient_quantity: 500
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 4
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Red pepper flakes"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "halved"
+
+      - ingredient_name: "Chicken broth"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Dry white wine"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Parmesan cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "grated"
+
+      - ingredient_name: "Fresh parsley"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+
+      - ingredient_name: "Lemon"
+        ingredient_quantity: 1
+        ingredient_measurement: "unit"
+        ingredient_description: "zested and juiced"
+
+      - ingredient_name: "Unsalted butter"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+  - recipe_name: "Caprese Salad"
+    instructions_desc: "Step 1: Slice tomatoes and mozzarella into rounds. ... Step 3: Drizzle balsamic glaze over the salad and garnish with fresh basil."
+    course: "Salad"
+    food_category: "Vegetarian Dish"
+    prep_time: 10
+    cook_time: null
+    ingredients:
+      - ingredient_name: "Large tomatoes"
+        ingredient_quantity: 4
+        ingredient_measurement: "units"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Fresh mozzarella"
+        ingredient_quantity: 1
+        ingredient_measurement: "lb"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Fresh basil leaves"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Balsamic glaze"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+  - recipe_name: "Butternut Squash Soup"
+    instructions_desc: "Step 1: Roast butternut squash until tender. ... Step 3: Blend until smooth, and serve hot."
+    course: "Soup"
+    food_category: "Vegetarian Dish"
+    prep_time: 15
+    cook_time: 40
+    ingredients:
+      - ingredient_name: "Medium butternut squash"
+        ingredient_quantity: 1
+        ingredient_measurement: "unit"
+        ingredient_description: "peeled and diced"
+
+      - ingredient_name: "Large onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "unit"
+        ingredient_description: "diced"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Carrot"
+        ingredient_quantity: 1
+        ingredient_measurement: "unit"
+        ingredient_description: "peeled and chopped"
+
+      - ingredient_name: "Apple"
+        ingredient_quantity: 1
+        ingredient_measurement: "unit"
+        ingredient_description: "peeled and chopped"
+
+      - ingredient_name: "Vegetable broth"
+        ingredient_quantity: 4
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Ground cumin"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Ground coriander"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Smoked paprika"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "Stuffed Bell Peppers"
+    instructions_desc: "Step 1: Cook rice according to package instructions. ... Step 3: Bake until peppers are tender and filling is heated through."
+    course: "Main Course"
+    food_category: "Vegetarian Dish"
+    prep_time: 30
+    cook_time: 45
+    ingredients:
+      - ingredient_name: "Quinoa"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "cooked"
+
+      - ingredient_name: "Bell peppers"
+        ingredient_quantity: 4
+        ingredient_measurement: "units"
+        ingredient_description: "halved and seeds removed"
+
+      - ingredient_name: "Black beans"
+        ingredient_quantity: 1
+        ingredient_measurement: "can"
+        ingredient_description: "drained and rinsed"
+
+      - ingredient_name: "Corn kernels"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Diced tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Shredded cheddar cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Cumin"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Chili powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "Pesto Pasta with Cherry Tomatoes"
+    instructions_desc: "Step 1: Cook pasta according to package instructions. ... Step 3: Toss pasta with pesto sauce, cherry tomatoes, and Parmesan cheese."
+    course: "Main Course"
+    food_category: "Pasta Dish"
+    prep_time: null
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Penne pasta"
+        ingredient_quantity: 500
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "halved"
+
+      - ingredient_name: "Fresh basil leaves"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Grated Parmesan cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Pine nuts"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+
+      - ingredient_name: "Extra virgin olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "for garnish"
+  - recipe_name: "Baked Ziti"
+    instructions_desc: "Step 1: Cook ziti pasta according to package instructions. ... Step 3: Bake until the cheese is melted and bubbly."
+    course: "Main Course"
+    food_category: "Pasta Dish"
+    prep_time: null
+    cook_time: 30
+    ingredients:
+      - ingredient_name: "Ziti pasta"
+        ingredient_quantity: 500
+        ingredient_measurement: "grams"
+
+      - ingredient_name: "Marinara sauce"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Ground beef"
+        ingredient_quantity: 1
+        ingredient_measurement: "lb"
+
+      - ingredient_name: "Ricotta cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Shredded mozzarella cheese"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Grated Parmesan cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Dried oregano"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried basil"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "Lemon Garlic Shrimp"
+    instructions_desc: "Step 1: Season shrimp with salt, pepper, and garlic powder. ... Step 3: Serve over cooked rice or pasta."
+    course: "Main Course"
+    food_category: "Seafood Dish"
+    prep_time: 10
+    cook_time: 10
+    ingredients:
+      - ingredient_name: "Large shrimp"
+        ingredient_quantity: 1
+        ingredient_measurement: "lb"
+        ingredient_description: "peeled and deveined"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 3
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Lemon zest"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Lemon juice"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Paprika"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried thyme"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Butter"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Fresh parsley"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+  - recipe_name: "Vegetable Stir-Fry"
+    instructions_desc: "Step 1: Heat oil in a wok and stir-fry vegetables until crisp-tender. ... Step 3: Serve over rice or noodles."
+    course: "Main Course"
+    food_category: "Vegetarian Dish"
+    prep_time: 15
+    cook_time: 10
+    ingredients:
+      - ingredient_name: "Broccoli florets"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Bell peppers (mixed colors)"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Snow peas"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "trimmed"
+
+      - ingredient_name: "Carrots"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "julienned"
+
+      - ingredient_name: "Mushrooms"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Tofu"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "cubed"
+
+      - ingredient_name: "Soy sauce"
+        ingredient_quantity: 3
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Oyster sauce"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Sesame oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Ginger"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Cornstarch"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Sugar"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "BBQ Pulled Pork Sandwiches"
+    instructions_desc: "Step 1: Season pork shoulder with BBQ rub and slow-cook until tender. ... Step 3: Shred the pork, mix with BBQ sauce, and serve on buns."
+    course: "Main Course"
+    food_category: "Pork Dish"
+    prep_time: 15
+    cook_time: 8
+    ingredients:
+      - ingredient_name: "Pork shoulder"
+        ingredient_quantity: 1
+        ingredient_measurement: "lb"
+
+      - ingredient_name: "BBQ rub"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "BBQ sauce"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Chicken broth"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Brown sugar"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Apple cider vinegar"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Smoked paprika"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried thyme"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried rosemary"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Hamburger buns"
+        ingredient_quantity: 6
+        ingredient_measurement: "units"
+  - recipe_name: "Eggplant Parmesan"
+    instructions_desc: "Step 1: Bread and bake eggplant slices until golden. ... Step 3: Layer eggplant with marinara sauce and cheese, then bake until bubbly."
+    course: "Main Course"
+    food_category: "Vegetarian Dish"
+    prep_time: 30
+    cook_time: 45
+    ingredients:
+      - ingredient_name: "Large eggplants"
+        ingredient_quantity: 2
+        ingredient_measurement: "units"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Breadcrumbs"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Grated Parmesan cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Dried oregano"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried basil"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Marinara sauce"
+        ingredient_quantity: 4
+        ingredient_measurement: "cups"
+
+      - ingredient_name: "Mozzarella cheese"
+        ingredient_quantity: 2
+        ingredient_measurement: "cups"
+        ingredient_description: "shredded"
+
+      - ingredient_name: "Fresh basil leaves"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "chopped"
+  - recipe_name: "Chicken and Vegetable Skewers"
+    instructions_desc: "Step 1: Marinate chicken in a lemon-herb marinade. ... Step 3: Grill skewers until chicken is cooked through and veggies are tender."
+    course: "Main Course"
+    food_category: "Chicken Dish"
+    prep_time: 20
+    cook_time: 15
+    ingredients:
+      - ingredient_name: "Chicken breast"
+        ingredient_quantity: 1
+        ingredient_measurement: "lb"
+        ingredient_description: "cut into cubes"
+
+      - ingredient_name: "Cherry tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Bell peppers (mixed colors)"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "cut into chunks"
+
+      - ingredient_name: "Zucchini"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Yellow squash"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "sliced"
+
+      - ingredient_name: "Olive oil"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Garlic cloves"
+        ingredient_quantity: 2
+        ingredient_measurement: "cloves"
+        ingredient_description: "minced"
+
+      - ingredient_name: "Lemon juice"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Dried oregano"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Dried thyme"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Paprika"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "Cauliflower Buffalo Bites"
+    instructions_desc: "Step 1: Coat cauliflower florets in a buffalo sauce mixture. ... Step 3: Bake until golden and serve with a side of ranch dressing."
+    course: "Appetizer"
+    food_category: "Vegetarian Dish"
+    prep_time: 15
+    cook_time: 25
+    ingredients:
+      - ingredient_name: "Cauliflower"
+        ingredient_quantity: 1
+        ingredient_measurement: "head"
+        ingredient_description: "cut into florets"
+
+      - ingredient_name: "All-purpose flour"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Unsweetened almond milk"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Smoked paprika"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Buffalo sauce"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Melted butter"
+        ingredient_quantity: 2
+        ingredient_measurement: "tablespoons"
+
+      - ingredient_name: "Apple cider vinegar"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Honey"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+
+      - ingredient_name: "Worcestershire sauce"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+  - recipe_name: "Chocolate Avocado Mousse"
+    instructions_desc: "Step 1: Blend avocado, cocoa powder, and sweetener until smooth. ... Step 3: Chill in the refrigerator and serve topped with berries."
+    course: "Dessert"
+    food_category: "Vegetarian Dish"
+    prep_time: 10
+    cook_time: null
+    ingredients:
+      - ingredient_name: "Ripe avocados"
+        ingredient_quantity: 2
+        ingredient_measurement: "units"
+        ingredient_description: "peeled and pitted"
+
+      - ingredient_name: "Unsweetened cocoa powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Coconut milk"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Maple syrup or agave nectar"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Vanilla extract"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Instant coffee"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+        ingredient_description: "(optional)"
+
+      - ingredient_name: "Cinnamon"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Fresh berries"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "(for garnish)"
+
+      - ingredient_name: "Mint leaves"
+        ingredient_quantity: 1
+        ingredient_measurement: "tablespoon"
+        ingredient_description: "(for garnish)"
+  - recipe_name: "Savory Quinoa Stuffed Peppers"
+    instructions_desc: "Step 1: Cook quinoa according to package instructions. ... Step 3: Bake until peppers are tender and filling is heated through."
+    course: "Main Course"
+    food_category: "Vegetarian Dish"
+    prep_time: 30
+    cook_time: 45
+    ingredients:
+      - ingredient_name: "Quinoa"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "cooked"
+
+      - ingredient_name: "Bell peppers"
+        ingredient_quantity: 4
+        ingredient_measurement: "units"
+        ingredient_description: "halved and seeds removed"
+
+      - ingredient_name: "Black beans"
+        ingredient_quantity: 1
+        ingredient_measurement: "can"
+        ingredient_description: "drained and rinsed"
+
+      - ingredient_name: "Corn kernels"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Diced tomatoes"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Red onion"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+        ingredient_description: "finely chopped"
+
+      - ingredient_name: "Shredded cheddar cheese"
+        ingredient_quantity: 1
+        ingredient_measurement: "cup"
+
+      - ingredient_name: "Cumin"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Chili powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Garlic powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Onion powder"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Salt"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
+
+      - ingredient_name: "Black pepper"
+        ingredient_quantity: 1
+        ingredient_measurement: "teaspoon"
